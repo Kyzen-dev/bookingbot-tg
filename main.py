@@ -15,6 +15,7 @@ bot = telebot.TeleBot(BOT_TOKEN)
 start.register_handlers(bot)
 booking.register_handlers(bot)
 admin.register_handlers(bot)
+
 start_scheduler(bot)
 
 
