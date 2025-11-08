@@ -8,3 +8,4 @@ jdatetime~=5.2.0
 reportlab~=4.4.3
 pymongo~=4.13.2
 arabic_reshaper~=2.0.7
+python-bidi~=0.4.2
