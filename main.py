@@ -23,5 +23,4 @@ print("✅ Bot is running...")
 
 
 
-bot.infinity_polling()
-
+bot.set_webhook(url="https://"https://bookingbot-tg.onrender.com")
