@@ -7,3 +7,4 @@ pytz~=2025.2
 jdatetime~=5.2.0
 reportlab~=4.4.3
 pymongo~=4.13.2
+arabic_reshaper~=2.0.7
