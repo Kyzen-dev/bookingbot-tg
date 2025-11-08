@@ -23,4 +23,4 @@ print("✅ Bot is running...")
 
 
 
-bot.set_webhook(url="https://"https://bookingbot-tg.onrender.com")
+bot.set_webhook(url="https://bookingbot-tg.onrender.com")
